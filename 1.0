@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy – One Tap Stats</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 680px;
+      margin: 60px auto;
+      padding: 0 24px;
+      color: #222;
+      line-height: 1.7;
+    }
+    h1 { font-size: 1.6rem; margin-bottom: 4px; }
+    p.updated { color: #888; font-size: 0.9rem; margin-top: 0; }
+    h2 { font-size: 1.1rem; margin-top: 2rem; }
+  </style>
+</head>
+<body>
+
+  <h1>Privacy Policy</h1>
+  <p class="updated">Last updated: April 29, 2026</p>
+
+  <p>One Tap Stats ("the app") is a stat tracking app for iOS developed by Pablo Mila.</p>
+
+  <h2>Data Collection</h2>
+  <p>One Tap Stats does not collect, transmit, or share any personal data. All information you enter — including player names, photos, and statistics — is stored exclusively on your device and never leaves it.</p>
+
+  <h2>Third-Party Services</h2>
+  <p>The app does not use any third-party analytics, advertising, or data collection services.</p>
+
+  <h2>Photos</h2>
+  <p>If you add a player photo, it is stored locally on your device only. It is never uploaded or shared anywhere.</p>
+
+  <h2>Children's Privacy</h2>
+  <p>The app does not collect any data from anyone, including children under 13.</p>
+
+  <h2>Contact</h2>
+  <p>For any questions about this privacy policy, please contact <a href="mailto:p_mila@outlook.com">p_mila@outlook.com</a>.</p>
+
+</body>
+</html>
